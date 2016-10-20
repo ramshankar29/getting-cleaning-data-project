@@ -34,7 +34,7 @@ yTrain       = read.table('./train/y_train.txt',header=FALSE); #imports y_train.
 
 # Assigin column names to the data imported above
 colnames(activityType)  = c('activityId','activityType');
-colnames(subjectTrain)  = "subjectId";
+colnames(subjectTrain)  = "subjectId"; 
 colnames(xTrain)        = features[,2]; 
 colnames(yTrain)        = "activityId";
 
