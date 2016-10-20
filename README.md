@@ -1,8 +1,8 @@
 ## Getting and Cleaning Data Project
 
-Heather Wade
+Shankar Ram
 
-Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
+Repo for the submission of the course project for Getting and Cleaning Data course/ week 4. 
 
 ### Overview
 This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent
